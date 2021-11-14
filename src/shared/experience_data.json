@@ -1,0 +1,55 @@
+{
+	"title": "Experience",
+	"subtitle": "Work, Internship and Volunteership",
+	"description":
+		"",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Work",
+			"experiences": [
+				{
+					"title": "Android and ML Developer",
+					"company": "",
+					"company_url": "",
+					"logo_path": "muffito_logo.png",
+					"duration": "May 2018 - Oct 2018",
+					"location": "",
+					"description":
+						"",
+					"color": "#9b1578"
+				},
+				{
+					"title": "",
+					"company": "",
+					"company_url": "",
+					"logo_path": "freecopy_logo.png",
+					"duration": "Nov 2017 - Dec 2017",
+					"location": "",
+					"description":
+						"",
+					"color": "#fc1f20"
+				}
+			]
+		},
+		{
+			"title": "Internships",
+			"experiences": [
+				{
+					"title": "",
+					"company": "",
+					"company_url": "",
+					"logo_path": "",
+					"duration": "May 2019 - Sept 2019",
+					"location": "",
+					"description": "",
+					"color": "#ee3c26"
+				}
+			]
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": []
+		}
+	]
+}
