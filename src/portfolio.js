@@ -22,8 +22,7 @@ const greeting = {
   nickname: "Software Engineer",
   subTitle:
     "A man on a mission to better himself each day through applied learning, trial and error and communication",
-  resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+  resumeLink: "https://mrxavi3r.github.io/Resume/",
   portfolio_repository: "https://github.com/MrXavi3r",
 };
 
