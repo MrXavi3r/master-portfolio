@@ -9,16 +9,20 @@ class ExperienceAccordion extends Component {
     return (
       <div className="experience-accord">
         <Accordion onChange={({ expanded }) => console.log(expanded)}>
-          {this.props.sections.map((section) => {
+          {this.props.sections.map((section, index) => {
             return (
               <Panel
                 className="accord-panel"
                 title={section["title"]}
-                key={section["title"]}
+                key={index}
               >
-                {section["experiences"].map((experience) => {
+                {section["experiences"].map((experience, index) => {
                   return (
-                    <ExperienceCard experience={experience} theme={theme} />
+                    <ExperienceCard
+                      key={index}
+                      experience={experience}
+                      theme={theme}
+                    />
                   );
                 })}
               </Panel>

@@ -161,6 +161,13 @@
 }
 
 @media (max-width: 768px) {
+  .logoBox {
+    margin: 0 auto;
+    border-radius: 5%;
+    margin-bottom: 1rem;
+    width: 100%;
+  }
+
   .contact-heading-text {
     font-size: 30px;
     margin-top: 0px;
